@@ -1,8 +1,7 @@
 {
   "name": "ams-manual",
   "version": "0.1.0",
-  "description": "Description for ams-system and How to Recover Protocol",
-  "main": "index.js",
+  "description": "Description of ams-system for External documents",
   "scripts": {
     "lint": "textlint",
     "lint:fix": "textlint --fix"
